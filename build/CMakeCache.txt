@@ -270,6 +270,9 @@ Z_VCPKG_PWSH_PATH:FILEPATH=C:/Program Files/PowerShell/7/pwsh.exe
 // triplet
 _VCPKG_INSTALLED_DIR:PATH=D:/dev/vcpkg/installed
 
+//The directory containing a CMake configuration file for absl.
+absl_DIR:PATH=D:/dev/vcpkg/installed/x64-windows/share/absl
+
 //CMake built-in FindProtobuf.cmake module compatible
 protobuf_MODULE_COMPATIBLE:BOOL=OFF
 
@@ -281,6 +284,9 @@ quirc_DIR:PATH=D:/dev/vcpkg/installed/x64-windows/share/quirc
 
 //The directory containing a CMake configuration file for tiff.
 tiff_DIR:PATH=tiff_DIR-NOTFOUND
+
+//The directory containing a CMake configuration file for utf8_range.
+utf8_range_DIR:PATH=D:/dev/vcpkg/installed/x64-windows/share/utf8_range
 
 //Value Computed by CMake
 vscode_BINARY_DIR:STATIC=D:/project/vscode/build
@@ -433,7 +439,7 @@ CMAKE_VERBOSE_MAKEFILE-ADVANCED:INTERNAL=1
 //Details about finding OpenCV
 FIND_PACKAGE_MESSAGE_DETAILS_OpenCV:INTERNAL=[D:/dev/vcpkg/installed/x64-windows][v4.8.0()]
 //Details about finding Protobuf
-FIND_PACKAGE_MESSAGE_DETAILS_Protobuf:INTERNAL=[D:/dev/vcpkg/installed/x64-windows/tools/protobuf/protoc.exe][optimized;D:/dev/vcpkg/installed/x64-windows/bin/libprotobuf.dll;debug;D:/dev/vcpkg/installed/x64-windows/debug/bin/libprotobufd.dll][D:/dev/vcpkg/installed/x64-windows/include][v3.21.12.0()]
+FIND_PACKAGE_MESSAGE_DETAILS_Protobuf:INTERNAL=[D:/dev/vcpkg/installed/x64-windows/tools/protobuf/protoc.exe][optimized;D:/dev/vcpkg/installed/x64-windows/bin/libprotobuf.dll;debug;D:/dev/vcpkg/installed/x64-windows/debug/bin/libprotobufd.dll][D:/dev/vcpkg/installed/x64-windows/include][v25.1.0()]
 //Details about finding TIFF
 FIND_PACKAGE_MESSAGE_DETAILS_TIFF:INTERNAL=[optimized;D:/dev/vcpkg/installed/x64-windows/lib/tiff.lib;debug;D:/dev/vcpkg/installed/x64-windows/debug/lib/tiffd.lib][D:/dev/vcpkg/installed/x64-windows/include][c ][v4.6.0()]
 //Details about finding Threads

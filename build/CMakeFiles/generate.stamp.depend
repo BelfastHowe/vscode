@@ -29,6 +29,11 @@ D:/IDE/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC.cmake
 D:/IDE/CMake/share/cmake-3.28/Modules/Platform/Windows.cmake
 D:/IDE/CMake/share/cmake-3.28/Modules/Platform/WindowsPaths.cmake
 D:/IDE/CMake/share/cmake-3.28/Modules/SelectLibraryConfigurations.cmake
+D:/dev/vcpkg/installed/x64-windows/share/absl/abslConfig.cmake
+D:/dev/vcpkg/installed/x64-windows/share/absl/abslConfigVersion.cmake
+D:/dev/vcpkg/installed/x64-windows/share/absl/abslTargets-debug.cmake
+D:/dev/vcpkg/installed/x64-windows/share/absl/abslTargets-release.cmake
+D:/dev/vcpkg/installed/x64-windows/share/absl/abslTargets.cmake
 D:/dev/vcpkg/installed/x64-windows/share/opencv/OpenCVConfig-version.cmake
 D:/dev/vcpkg/installed/x64-windows/share/opencv/OpenCVConfig.cmake
 D:/dev/vcpkg/installed/x64-windows/share/opencv/OpenCVModules-debug.cmake
@@ -36,6 +41,7 @@ D:/dev/vcpkg/installed/x64-windows/share/opencv/OpenCVModules-release.cmake
 D:/dev/vcpkg/installed/x64-windows/share/opencv/OpenCVModules.cmake
 D:/dev/vcpkg/installed/x64-windows/share/protobuf/protobuf-config-version.cmake
 D:/dev/vcpkg/installed/x64-windows/share/protobuf/protobuf-config.cmake
+D:/dev/vcpkg/installed/x64-windows/share/protobuf/protobuf-generate.cmake
 D:/dev/vcpkg/installed/x64-windows/share/protobuf/protobuf-module.cmake
 D:/dev/vcpkg/installed/x64-windows/share/protobuf/protobuf-options.cmake
 D:/dev/vcpkg/installed/x64-windows/share/protobuf/protobuf-targets-debug.cmake
@@ -46,6 +52,10 @@ D:/dev/vcpkg/installed/x64-windows/share/quirc/quirc-config-debug.cmake
 D:/dev/vcpkg/installed/x64-windows/share/quirc/quirc-config-release.cmake
 D:/dev/vcpkg/installed/x64-windows/share/quirc/quirc-config.cmake
 D:/dev/vcpkg/installed/x64-windows/share/tiff/vcpkg-cmake-wrapper.cmake
+D:/dev/vcpkg/installed/x64-windows/share/utf8_range/utf8_range-config.cmake
+D:/dev/vcpkg/installed/x64-windows/share/utf8_range/utf8_range-targets-debug.cmake
+D:/dev/vcpkg/installed/x64-windows/share/utf8_range/utf8_range-targets-release.cmake
+D:/dev/vcpkg/installed/x64-windows/share/utf8_range/utf8_range-targets.cmake
 D:/dev/vcpkg/scripts/buildsystems/vcpkg.cmake
 D:/project/vscode/CMakeLists.txt
 D:/project/vscode/build/CMakeFiles/3.28.0-rc5/CMakeCCompiler.cmake

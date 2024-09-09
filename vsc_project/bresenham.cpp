@@ -4,6 +4,8 @@
 using p64=std::pair<int,int>;
 template<typename T>
 using Matrix=std::vector<std::vector<T>>;
+using namespace std;
+using namespace cv;
 
 std::vector<p64> bresenham4(int x0, int y0, int x1, int y1)
 {
@@ -32,7 +34,7 @@ std::vector<p64> bresenham4(int x0, int y0, int x1, int y1)
     return points;
 }
 
-int main()
+int bre_main()
 {
     cv::Mat final(256,256,CV_8UC3,cv::Scalar(255,255,255));
 
@@ -66,3 +68,19 @@ int main()
 
 }
 
+
+int main()
+{
+    int h=100,w=100;
+
+    Mat mat(h,w,CV_8UC1,Scalar(0));
+
+    vector<Point> contours={Point(0,0),Point(0,99),Point(99,99),Point(99,0)};
+
+    fillPoly(mat,contours,Scalar(128));
+
+    imshow("mat",mat);
+    waitKey();
+
+    return 0;
+}

@@ -1151,7 +1151,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "[D:/dev/vcpkg/installed/x64-windows/tools/protobuf/protoc.exe][optimized;D:/dev/vcpkg/installed/x64-windows/bin/libprotobuf.dll;debug;D:/dev/vcpkg/installed/x64-windows/debug/bin/libprotobufd.dll][D:/dev/vcpkg/installed/x64-windows/include][v3.21.12.0()]"
+			"value" : "[D:/dev/vcpkg/installed/x64-windows/tools/protobuf/protoc.exe][optimized;D:/dev/vcpkg/installed/x64-windows/bin/libprotobuf.dll;debug;D:/dev/vcpkg/installed/x64-windows/debug/bin/libprotobufd.dll][D:/dev/vcpkg/installed/x64-windows/include][v25.1.0()]"
 		},
 		{
 			"name" : "FIND_PACKAGE_MESSAGE_DETAILS_TIFF",
@@ -1470,6 +1470,18 @@
 			"value" : "D:/dev/vcpkg/installed"
 		},
 		{
+			"name" : "absl_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "The directory containing a CMake configuration file for absl."
+				}
+			],
+			"type" : "PATH",
+			"value" : "D:/dev/vcpkg/installed/x64-windows/share/absl"
+		},
+		{
 			"name" : "protobuf_MODULE_COMPATIBLE",
 			"properties" : 
 			[
@@ -1524,6 +1536,18 @@
 			],
 			"type" : "PATH",
 			"value" : "tiff_DIR-NOTFOUND"
+		},
+		{
+			"name" : "utf8_range_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "The directory containing a CMake configuration file for utf8_range."
+				}
+			],
+			"type" : "PATH",
+			"value" : "D:/dev/vcpkg/installed/x64-windows/share/utf8_range"
 		},
 		{
 			"name" : "vscode_BINARY_DIR",

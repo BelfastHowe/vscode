@@ -194,6 +194,82 @@
 		},
 		{
 			"isExternal" : true,
+			"path" : "D:/dev/vcpkg/installed/x64-windows/share/absl/abslConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/dev/vcpkg/installed/x64-windows/share/absl/abslConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/IDE/CMake/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/IDE/CMake/share/cmake-3.28/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/IDE/CMake/share/cmake-3.28/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/IDE/CMake/share/cmake-3.28/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/IDE/CMake/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/IDE/CMake/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/IDE/CMake/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/IDE/CMake/share/cmake-3.28/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/dev/vcpkg/installed/x64-windows/share/absl/abslTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/dev/vcpkg/installed/x64-windows/share/absl/abslTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/dev/vcpkg/installed/x64-windows/share/absl/abslTargets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/dev/vcpkg/installed/x64-windows/share/utf8_range/utf8_range-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/dev/vcpkg/installed/x64-windows/share/utf8_range/utf8_range-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/dev/vcpkg/installed/x64-windows/share/utf8_range/utf8_range-targets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/dev/vcpkg/installed/x64-windows/share/utf8_range/utf8_range-targets-release.cmake"
+		},
+		{
+			"isExternal" : true,
 			"path" : "D:/dev/vcpkg/installed/x64-windows/share/protobuf/protobuf-targets.cmake"
 		},
 		{
@@ -203,6 +279,10 @@
 		{
 			"isExternal" : true,
 			"path" : "D:/dev/vcpkg/installed/x64-windows/share/protobuf/protobuf-targets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/dev/vcpkg/installed/x64-windows/share/protobuf/protobuf-generate.cmake"
 		},
 		{
 			"isExternal" : true,
@@ -246,11 +326,6 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/IDE/CMake/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
 			"path" : "D:/IDE/CMake/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake"
 		},
 		{
@@ -279,22 +354,12 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/IDE/CMake/share/cmake-3.28/Modules/SelectLibraryConfigurations.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
 			"path" : "D:/IDE/CMake/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake"
 		},
 		{
 			"isCMake" : true,
 			"isExternal" : true,
 			"path" : "D:/IDE/CMake/share/cmake-3.28/Modules/FindPackageMessage.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "D:/IDE/CMake/share/cmake-3.28/Modules/SelectLibraryConfigurations.cmake"
 		},
 		{
 			"isExternal" : true,
